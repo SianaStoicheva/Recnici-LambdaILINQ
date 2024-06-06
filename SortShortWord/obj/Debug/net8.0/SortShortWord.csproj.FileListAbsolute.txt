@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\bin\Debug\net8.0\SortShortWord.exe
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\bin\Debug\net8.0\SortShortWord.deps.json
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\bin\Debug\net8.0\SortShortWord.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\bin\Debug\net8.0\SortShortWord.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\bin\Debug\net8.0\SortShortWord.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\SortShortWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\SortShortWord.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\SortShortWord.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\SortShortWord.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\SortShortWord.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\refint\SortShortWord.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\SortShortWord.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\SortShortWord.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\SortShortWord\obj\Debug\net8.0\ref\SortShortWord.dll

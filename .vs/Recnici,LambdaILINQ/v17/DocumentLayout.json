@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1997D146-45AE-4ADB-B0DD-A51CD003AB0A}|FoldAndSum\\FoldAndSum.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici,lambdailinq\\foldandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1997D146-45AE-4ADB-B0DD-A51CD003AB0A}|FoldAndSum\\FoldAndSum.csproj|solutionrelative:foldandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA7235-0CF7-42EE-A42C-174931BC51B4}|SortShortWord\\SortShortWord.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici,lambdailinq\\sortshortword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA7235-0CF7-42EE-A42C-174931BC51B4}|SortShortWord\\SortShortWord.csproj|solutionrelative:sortshortword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94786483-E4AC-4262-9449-5A0406A50AC7}|BigNumber\\BigNumber.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici,lambdailinq\\bignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94786483-E4AC-4262-9449-5A0406A50AC7}|BigNumber\\BigNumber.csproj|solutionrelative:bignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2145C165-1D09-4865-8580-2DDB9CCB9F59}|Supermarket\\Supermarket.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici,lambdailinq\\supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2145C165-1D09-4865-8580-2DDB9CCB9F59}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723D59B8-EDE7-46B6-907E-3A90EF994782}|Sum,Min,MaxAverage\\Sum,Min,MaxAverage.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici,lambdailinq\\sum,min,maxaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723D59B8-EDE7-46B6-907E-3A90EF994782}|Sum,Min,MaxAverage\\Sum,Min,MaxAverage.csproj|solutionrelative:sum,min,maxaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2145C165-1D09-4865-8580-2DDB9CCB9F59}|Supermarket\\Supermarket.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici,lambdailinq\\supermarket\\supermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2145C165-1D09-4865-8580-2DDB9CCB9F59}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\supermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2145C165-1D09-4865-8580-2DDB9CCB9F59}|Supermarket\\Supermarket.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici,lambdailinq\\supermarket\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2145C165-1D09-4865-8580-2DDB9CCB9F59}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\FoldAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "FoldAndSum\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\FoldAndSum\\Program.cs",
+              "RelativeToolTip": "FoldAndSum\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:20:51.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\SortShortWord\\Program.cs",
+              "RelativeDocumentMoniker": "SortShortWord\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\SortShortWord\\Program.cs",
+              "RelativeToolTip": "SortShortWord\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:18:45.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\BigNumber\\Program.cs",
+              "RelativeDocumentMoniker": "BigNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\BigNumber\\Program.cs",
+              "RelativeToolTip": "BigNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:16:18.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\Sum,Min,MaxAverage\\Program.cs",
+              "RelativeDocumentMoniker": "Sum,Min,MaxAverage\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\Sum,Min,MaxAverage\\Program.cs",
+              "RelativeToolTip": "Sum,Min,MaxAverage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:12:36.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Supermarket.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\Supermarket\\Supermarket.cs",
+              "RelativeDocumentMoniker": "Supermarket\\Supermarket.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\Supermarket\\Supermarket.cs",
+              "RelativeToolTip": "Supermarket\\Supermarket.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:08:53.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\Supermarket\\Product.cs",
+              "RelativeDocumentMoniker": "Supermarket\\Product.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\Supermarket\\Product.cs",
+              "RelativeToolTip": "Supermarket\\Product.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:04:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\Supermarket\\Program.cs",
+              "RelativeDocumentMoniker": "Supermarket\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici,LambdaILINQ\\Supermarket\\Program.cs",
+              "RelativeToolTip": "Supermarket\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:01:40.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

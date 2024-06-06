@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\bin\Debug\net8.0\BigNumber.exe
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\bin\Debug\net8.0\BigNumber.deps.json
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\bin\Debug\net8.0\BigNumber.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\bin\Debug\net8.0\BigNumber.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\bin\Debug\net8.0\BigNumber.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\BigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\BigNumber.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\BigNumber.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\BigNumber.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\BigNumber.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\refint\BigNumber.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\BigNumber.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\BigNumber.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\BigNumber\obj\Debug\net8.0\ref\BigNumber.dll

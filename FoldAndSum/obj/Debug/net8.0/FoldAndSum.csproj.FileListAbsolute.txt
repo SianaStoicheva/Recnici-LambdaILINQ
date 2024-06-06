@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\bin\Debug\net8.0\FoldAndSum.exe
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\bin\Debug\net8.0\FoldAndSum.deps.json
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\bin\Debug\net8.0\FoldAndSum.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\bin\Debug\net8.0\FoldAndSum.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\bin\Debug\net8.0\FoldAndSum.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\FoldAndSum.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\FoldAndSum.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\refint\FoldAndSum.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\FoldAndSum.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\FoldAndSum.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\FoldAndSum\obj\Debug\net8.0\ref\FoldAndSum.dll

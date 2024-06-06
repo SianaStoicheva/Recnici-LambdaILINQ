@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\bin\Debug\net8.0\Sum,Min,MaxAverage.exe
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\bin\Debug\net8.0\Sum,Min,MaxAverage.deps.json
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\bin\Debug\net8.0\Sum,Min,MaxAverage.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\bin\Debug\net8.0\Sum,Min,MaxAverage.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\bin\Debug\net8.0\Sum,Min,MaxAverage.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\Sum,Min,MaxAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\Sum,Min,MaxAverage.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\Sum,Min,MaxAverage.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\Sum,Min,MaxAverage.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\Sum,Min,MaxAverage.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\refint\Sum,Min,MaxAverage.dll
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\Sum,Min,MaxAverage.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\Sum,Min,MaxAverage.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Recnici,LambdaILINQ\Sum,Min,MaxAverage\obj\Debug\net8.0\ref\Sum,Min,MaxAverage.dll
